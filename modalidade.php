@@ -25,10 +25,6 @@
                     $titulo = $i["titulo"];
                     $descricao = $i["descricao"];
  
-                    // echo "
-                    //     <div>
-                    //         <img src='" . $i["caminho"] ."'
-                    //     </div>"
                    
                     echo "
                         <div class='card'>
