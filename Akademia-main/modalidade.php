@@ -7,10 +7,9 @@
     <title>Document</title>
 </head>
 <body>
- 
     <?php
  
-        include_once("class/Item.php");
+        include_once("class/modalidade.php"); 
         $item = new Item();
  
             $lista = $item->listarItem();
